@@ -1,0 +1,19 @@
+{
+  "hostname": "",
+  "host": "",
+  "port": "",
+  "tags": [],
+  "httpOriginForm": "",
+  "normalizedDefaultPort": "",
+  "fileBaseHref": "",
+  "directoryBaseHref": "",
+  "queryHref": "",
+  "fragmentHref": "",
+  "apiSameOrigin": null,
+  "apiSameSite": null,
+  "portSameOrigin": null,
+  "portSameSite": null,
+  "schemeSameSite": null,
+  "formSerialized": "",
+  "missingBaseError": ""
+}
